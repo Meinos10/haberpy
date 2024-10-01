@@ -2,7 +2,7 @@
 
 Haber sitelerinden bildirimleri kolay sekilde alabilmeniz icin tasarlanmis bir Python API.
 
-- Kar amaci gutmemektedir...
+- Kar amaci gütmemektedir...
 
 </br>
 
